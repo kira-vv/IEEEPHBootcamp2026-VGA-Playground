@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+VGA Playground Display from TinyTapeout Pre-sets for the IEEE PH Bootcamp 2026
 
 ## How to test
 
-Explain how to use your project
+VGA Playground Display from TinyTapeout Pre-sets for the IEEE PH Bootcamp 2026
 
 ## External hardware
 
